@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoeplaza", "shoeplaza\shoeplaza.csproj", "{702F0682-FF80-4112-89A4-46E58A6E3345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoeplaza.Tests", "shoeplaza.Tests\shoeplaza.Tests.csproj", "{AE0BBBFE-8DA7-4177-97D1-640E60D6EC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702F0682-FF80-4112-89A4-46E58A6E3345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702F0682-FF80-4112-89A4-46E58A6E3345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702F0682-FF80-4112-89A4-46E58A6E3345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702F0682-FF80-4112-89A4-46E58A6E3345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0BBBFE-8DA7-4177-97D1-640E60D6EC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0BBBFE-8DA7-4177-97D1-640E60D6EC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0BBBFE-8DA7-4177-97D1-640E60D6EC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0BBBFE-8DA7-4177-97D1-640E60D6EC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49B1EC4-41D7-4853-A011-DB025CE86EBA}
+	EndGlobalSection
+EndGlobal
